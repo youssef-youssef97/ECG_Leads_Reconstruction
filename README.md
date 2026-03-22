@@ -117,7 +117,7 @@ python cross_dataset_testing.py
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 
 Evaluation metrics include:
 
@@ -129,7 +129,7 @@ Metrics are computed **per segment and averaged**, ensuring balanced evaluation 
 
 ---
 
-## 📚 Datasets
+## Datasets
 
 This project uses:
 
