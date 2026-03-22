@@ -33,7 +33,7 @@ The overall pipeline consists of four main stages:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -46,14 +46,6 @@ The overall pipeline consists of four main stages:
 ├── KNN_plots.py
 ├── cross_dataset_testing.py
 └── README.md
-```
-
----
-
-## ⚙️ Installation
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
