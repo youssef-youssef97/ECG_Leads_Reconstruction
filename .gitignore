@@ -1,0 +1,19 @@
+# data
+Cleaned_Datasets/
+Segments/
+out/
+contrastive_out/
+
+# results
+Recons_*/
+cross_dataset_testing/
+
+# cache
+__pycache__/
+*.pyc
+
+# files
+*.npy
+*.pt
+*.csv
+*.json
